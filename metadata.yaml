@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41488'
     url: http://www.gutenberg.org/2009/agents/41488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42025#Europe-in-the-Sixteenth-Century-1494-1598-Fifth-EditionPeriod-IV--of-8--Periods-of-European-H_
 gutenberg_issued: '2013-02-06'
 gutenberg_type: Text
 identifiers:
